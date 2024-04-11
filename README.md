@@ -1,7 +1,6 @@
 # seoul_crosswalk_remaining_time_notifier
 
-A new Flutter project.
-
+서울 횡단보도 잔여시간 알리미 flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
